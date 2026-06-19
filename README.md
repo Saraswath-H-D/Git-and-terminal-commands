@@ -1,8 +1,13 @@
 #linux commands
+<br>
 echo "hello" echo for print that word
+<br>
 whoami   get username
-id   get all ids
+<br>
+id   get all ids(gid,uid,groups)
+<br>
 id -un   also give username
+<br>
 
 # git and terminal commands
 
