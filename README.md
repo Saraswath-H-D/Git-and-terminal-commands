@@ -1,3 +1,9 @@
+#linux commands
+echo "hello" echo for print that word
+whoami   get username
+id   get all ids
+id -un   also give username
+
 # git and terminal commands
 
 this is my first.
