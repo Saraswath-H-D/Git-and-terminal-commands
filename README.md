@@ -8,6 +8,7 @@ id   get all ids(gid,uid,groups)
 <br>
 id -un   also give username
 <br>
+pwd is for showing current working directory
 
 # git and terminal commands
 
