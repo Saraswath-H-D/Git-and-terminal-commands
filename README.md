@@ -9,6 +9,44 @@ id   get all ids(gid,uid,groups)
 id -un   also give username
 <br>
 pwd is for showing current working directory
+<br>
+rmdir   is to delete empty dirctories
+<br>
+cat f_nme  print elements in the file
+<br>
+cp src_file dest_file   is used for copy elemrnts from src file to destination
+<br>
+mv old_name new_name  used to rename 
+<br>
+rm f_name is used to remove file permanently
+<br>
+uname for os details
+<br>
+locate f_name   for get to path of db
+<br>
+touch f_name create empty files and timestamp
+<br>
+ln -s s_file link-file   to link file
+<br>
+clear
+<br>
+ps display process activitiy
+<br>
+man cmd_nme
+<br>
+grep UNIX  it will give text that have UNIX
+<br>
+wget url  used to download files frm intrnet usng url
+<br>
+sort f_name to sort contents
+<br>
+cal disp 
+<br>
+whereis path
+<br.
+wc f_name  count words and lines
+<br>
+
 
 # git and terminal commands
 
