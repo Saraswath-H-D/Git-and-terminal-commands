@@ -146,3 +146,5 @@ it also can used for js
 <test> in mongosh means temp default db
 mdb works in bson format means convert json to binary format or also called documents
 collection is many documents stores
+#mongodb commands
+type mongosh in gitbash
