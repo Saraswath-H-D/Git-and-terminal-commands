@@ -158,3 +158,7 @@ mongosh also java script part
 when we open mongosh temp db create cld test
 switched to db clge
 we write in json but mdb store in bson
+db.student.insertOne({name:"harry",dob:14,}) here if we directly type db.collectionme it will automatically create clction
+db.student.find()
+ db.student.insertMany([{name:"hat",age:17},{name:"shoe",age:21}])
+
