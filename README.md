@@ -162,10 +162,13 @@ db.student.insertOne({name:"harry",dob:14,}) here if we directly type db.collect
 db.student.find()
  db.student.insertMany([{name:"hat",age:17},{name:"shoe",age:21}])
  db.student.findOne({age:17}) give only one having age:17 and return og document
-  db.student.find({age:17}) it is only cursor to original doc not return og doc so it show with []
-  db.student.find({marks:{$gt:75}})
+ db.student.find({age:17}) it is only cursor to original doc not return og doc so it show with []
+ db.student.find({marks:{$gt:75}})
  db.student.find({city:{$in:["dehli","mumbai"]
  db.student.find({$or:[{marks:{$gt:75},{city:["dehli","mumbai"}])
+ db.student.updateOne({name:"adam"},{$set:{city:"dehli"}})
+ db.student.updateMany({name:"adma"},{$set:{city:"dehli"}})
+ db.student.replaceOne({name:"admi"},{name:"adhi",city:dehli})
 
 
 
