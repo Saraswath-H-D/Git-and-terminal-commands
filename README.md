@@ -46,6 +46,7 @@ whereis path
 <br.
 wc f_name  count words and lines
 <br>
+cat>>f_name  u can write input
 
 
 # git and terminal commands
